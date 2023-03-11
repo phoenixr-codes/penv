@@ -1,0 +1,14 @@
+[package]
+name = "penv"
+version = "0.1.0"
+authors = ["Jonas da Silva"]
+description = "Pretty Print Environment Variables"
+edition = "2021"
+repository = "https://github.com/phoenixr-codes/penv/"
+license = "MIT OR Unlicense"
+keywords = ["command-line", "env", "environment", "pretty"]
+categories = ["command-line-utilities", "visualization"]
+
+[dependencies]
+console = "0.15"
+glob = "0.3"
