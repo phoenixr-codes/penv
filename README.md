@@ -1,4 +1,10 @@
-# penv: Pretty Print Environment Variables
+# 💲 penv
+
+> ✨ Pretty Print Environment Variables
+
+*Using the `penv` command with the default settings*:
+
+![](./penv-demo.svg)
 
 ## Installation
 
